@@ -22,5 +22,5 @@ pip install numpy matplotlib
 ```
 ### 実行手順
 ```bash
-python sample_discretization.py
+python sample_IP-PI-control.py
 ```
